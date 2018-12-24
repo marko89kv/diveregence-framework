@@ -1,0 +1,23 @@
+{
+    "name": "marko89kv/divergence-framework",
+    "description": "There are not enough PHP framework in the world... So I will be making another one.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Marko Mijailovic",
+            "email": "marko.89.kv@outlook.com"
+        }
+    ],
+    "require": {
+
+    },
+    "require-dev": {
+
+    },
+    "autoload": {
+        "psr-4": {
+            "MMijailovic\\Divergence\\": "src/"
+        }
+    }
+}
